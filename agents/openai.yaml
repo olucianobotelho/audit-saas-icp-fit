@@ -1,0 +1,4 @@
+interface:
+  display_name: "SaaS ICP Product Audit"
+  short_description: "Audit SaaS ICP, design, pricing, and gaps"
+  default_prompt: "Use $audit-saas-icp-fit to audit my SaaS product, ICP, design, pricing, and missing proof."
