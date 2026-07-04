@@ -1,8 +1,12 @@
 # audit-saas-icp-fit
 
+<p align="center">
+  <img src="assets/leomarciano-preco-filtro-icp.jpg" alt="Capa do artigo 'Preço é filtro de ICP', de @leomarciano" width="100%">
+</p>
+
 Skill para auditoria de produtos **SaaS / B2B** sob a ótica de **ICP, posicionamento, design, pricing, oferta, onboarding, prova e lacunas de GTM**.
 
-> **Créditos / inspiração:** esta skill foi criada a partir do artigo **"Preço é filtro de ICP"**, publicado por **[@leomarciano](https://x.com/leomarciano)** no X/Twitter — [post original](https://x.com/leomarciano/status/2073144622465819001). A ideia central — enxergar preço não só como captura de valor, mas como **filtro de ICP** — sustenta toda a referência `references/pricing-as-icp.md` e o eixo 4 (Pricing) da auditoria.
+> **Créditos / inspiração:** esta skill foi criada a partir do artigo **"Preço é filtro de ICP"**, publicado por **[@leomarciano](https://x.com/leomarciano)** no X/Twitter — [post original](https://x.com/leomarciano/status/2073144622465819001). A imagem de capa acima também é do [@leomarciano](https://x.com/leomarciano). A ideia central — enxergar preço não só como captura de valor, mas como **filtro de ICP** — sustenta toda a referência `references/pricing-as-icp.md` e o eixo 4 (Pricing) da auditoria.
 
 Não é uma checklist de UX. É uma decisão de produto: a skill lê a superfície real (landing, pricing, onboarding, checkout, demo, prints) e diz **se o produto faz sentido como negócio, para quem ele fala e por que o preço/desenho está ou não selecionando o cliente certo**.
 
